@@ -6,6 +6,7 @@
         t01
       </h1>
       <h2 class="subtitle">
+        GGGGGGGGGGG</br>
         My peachy Nuxt.js project
       </h2>
       <div class="links">
